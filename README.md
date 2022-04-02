@@ -26,7 +26,7 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/YukYagami#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/YukYagami#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)]https://www.instagram.com/system_react/r#gh-light-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/system_react/r#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/system_react/#gh-dark-mode-only)
 
 ### Languages and Tools:
